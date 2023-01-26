@@ -29,7 +29,8 @@ print("word count in file = ",count)
 
 ```
 
-### OUTPUT:![command](https://user-images.githubusercontent.com/121165786/214782117-94cbc16a-4387-47ef-9751-2c6fa2052de0.png)
+### OUTPUT:
+![command](https://user-images.githubusercontent.com/121165786/214782117-94cbc16a-4387-47ef-9751-2c6fa2052de0.png)
 
 
 
